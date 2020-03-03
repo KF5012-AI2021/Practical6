@@ -9,8 +9,9 @@ Also, this is a great chance to ask questions about your project proposals that 
 
 ## What is in this Practical Session
 1. Image Classification Recap
-2. Recurrent Neural Networks
-3. Project-related Experimentation
+2. Python Classes
+3. Recurrent Neural Networks
+4. Project-related Experimentation
 
 It is suggested to read the notebooks in the above order. 
 
