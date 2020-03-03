@@ -11,7 +11,7 @@ Also, this is a great chance to ask questions about your project proposals that 
 1. Image Classification Recap
 2. Python Classes
 3. Recurrent Neural Networks for Time Series Prediction
-4. Project-related Experimentation
+4. (Optional) Project-related Experimentation
 
 It is suggested to read the notebooks in the above order. 
 
